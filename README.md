@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning: Rust, Python, C++, Vue.JS
+- 🔭 I’m currently working on: Completing degrees in Computer Science & Computational Mathematics
+- 📫 How to reach me: chandler@cock.li
