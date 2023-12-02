@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Rust, Python, C++, Vue.JS
 - 🔭 I’m currently working on: Completing undergraduate degrees in Computer Science & Computational Mathematics.
   - Side Project: [A CLI MP3 Player implemented in Rust](https://github.com/chandlerj/mp3player)
-- 📫 How to reach me: chandler@cock.li
+- 📫 How to reach me: me@chandlerjustice.com
