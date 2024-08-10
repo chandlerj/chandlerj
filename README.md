@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning: Rust, Python, C++, Vue.JS
-- 🔭 I’m currently working on: Completing undergraduate degrees in Computer Science & Computational Mathematics.
+- 🌱 I’m currently learning: Rust, Python, C++, Javascript, React
+- 🔭 I’m currently working on
+  - Completing undergraduate degrees in Computer Science & Computational Mathematics.
+  - Working for USU's DIRECT Lab on robotics and electricified transportation projects and studies
+  - Maintaining forks of several pieces of suckless software (dwm, dmenu, slstatus)
   - Side Project: [A CLI MP3 Player implemented in Rust](https://github.com/chandlerj/mp3player)
   - Side Project: 🍚[Instant Rice: an i3 + Polybar + rofi customization script](https://github.com/chandlerj/newTheme)🍚
+  - Building the spooky message board chqn.xyz
 - 📫 How to reach me: chqn@chandlerjustice.com
+- 💬 Ask me about: Web development, Linux, HPC, Comp. Math (numerical methods), etc
