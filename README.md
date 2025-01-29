@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning: Rust, Python, C++, Javascript, React
+- 🌱 I’m currently learning: Haskell, Javascript frameworks (express, react, etc), RL/ML
 - 🔭 I’m currently working on
-  - Completing undergraduate degrees in Computer Science & Computational Mathematics.
+  - An M.S. Computer Science degree from Utah State
   - Working for USU's DIRECT Lab on robotics and electricified transportation projects and studies
   - Maintaining forks of several pieces of suckless software (dwm, dmenu, slstatus)
   - Side Project: [A CLI MP3 Player implemented in Rust](https://github.com/chandlerj/mp3player)
