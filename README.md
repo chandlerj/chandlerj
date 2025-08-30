@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning: Haskell, Javascript frameworks (express, react, etc), RL/ML
+- 🌱 I’m currently learning: Reinforcement Learning, Numerical Methods, Robotics, ML
 - 🔭 I’m currently working on
-  - An M.S. Computer Science degree from Utah State
-  - Working for USU's DIRECT Lab on robotics and electricified transportation projects and studies
-  - Maintaining forks of several pieces of suckless software (dwm, dmenu, slstatus)
-  - Side Project: [A CLI MP3 Player implemented in Rust](https://github.com/chandlerj/mp3player)
-  - Side Project: 🍚[Instant Rice: an i3 + Polybar + rofi customization script](https://github.com/chandlerj/newTheme)🍚
-  - Building the spooky message board chqn.xyz
+  - An M.S. in AI Engineering from Utah State
+  - Working for USU's DIRECT Lab on robotics, electricified transportation, and decision intelligence studies
+  - Freelance web development and general R&D projects
 - 📫 How to reach me: chqn@chandlerjustice.com
-- 💬 Ask me about: Web development, Linux, HPC, Comp. Math (numerical methods), etc
+- 💬 Ask me about: Web development, Linux, HPC, Computational Mathematics, etc
