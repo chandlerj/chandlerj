@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning: Reinforcement Learning, Numerical Methods, Robotics, ML
 - 🔭 I’m currently working on
-  - An M.S. in AI Engineering from Utah State
-  - Working for USU's DIRECT Lab on robotics, electricified transportation, and decision intelligence studies
+  - A PhD in Electrical Engineering from Utah State
+  - Working for USU's DIRECT Lab on robotics, electrified transportation, and decision intelligence studies
   - Freelance web development and general R&D projects
-- 📫 How to reach me: chqn@chandlerjustice.com
+- 📫 How to reach me: chqn [at] chandlerjustice [dot] com
 - 💬 Ask me about: Web development, Linux, HPC, Computational Mathematics, etc
